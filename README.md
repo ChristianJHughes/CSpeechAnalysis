@@ -14,7 +14,9 @@ This program identifies the most common words occurring in a given text file. In
 4) If two words only differ by a final “s” or a final “d”, they will be recognized as the same word and stored in the shortest form if a shortest form is found. If you really want to, you can try to handle a few irregular plurals (man, woman) and irregular verbs, but this isn’t required.
 
 <b>INPUT:</b> 
+
 Command line argument in the form ./SpeechStatsAssignment3 [wordsToIgnore .txt file] < [input .txt file]
 
 <b>EXAMPLE INPUT:</b>
+
 ./SpeechStatsAssignment3 wordsToIgnore.txt < Kennedy.txt
