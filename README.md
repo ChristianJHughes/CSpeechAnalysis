@@ -1,7 +1,7 @@
 # C Speech Analysis
 <b>Identify common words in text files, designed for maximum efficiency. Written in C.</b>
 
-This program identifies the most common words occurring in a given text file. Input and output is all completed via the command line. Meticulous memory management and tree sorting ensures fast performance, even in very large files.
+This program identifies the most common words occurring in a given text file. It is especailly useful for identifying the most common words in speeches. Input and output is all completed via the command line. Meticulous memory management and tree sorting ensures fast performance, even in very large files.
 
 <b>RULES:</b>
 
