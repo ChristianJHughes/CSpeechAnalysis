@@ -4,6 +4,7 @@
 This program identifies the most common words occurring in a given text file. Input and output is all completed via the command line. Meticulous memory management and tree sorting ensures fast performance, even in very large files.
 
 <b>Rules, Input, & Output:</b>
+
 RULES:
 1) Words are separated by text or punctuation.
 2) The program should not be case-sensitive.
